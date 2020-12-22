@@ -1,2 +1,0 @@
-print ("ddidi")
-print ("slddid")
